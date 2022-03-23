@@ -10,6 +10,6 @@
 </p>
 
 * 📱 Software engineer specializing in [iOS](https://www.apple.com/ios/).
-* 💻 Loves publishing [open source software on GitHub](https://github.com/dchprojects?tab=repositories&type=source).
+* 📡 Loves science & technology.
 * 🇺🇦 From Ukraine.
 * 😁 Nice to meet you!

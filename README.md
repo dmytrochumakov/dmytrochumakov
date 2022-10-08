@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 </p>
 
-* 📱 Software engineer specializing on Apple platforms.
+* 📱 Software engineer specializing in Apple platforms.
 * 📡 Loves science & technology.
 * 🇺🇦 From Ukraine.
 * 😁 Nice to meet you!

@@ -13,3 +13,10 @@
 * 📡 Loves science & technology.
 * 🇺🇦 From Ukraine.
 * 😁 Nice to meet you!
+
+---
+
+<details>
+  <summary>:zap: GitHub stats</summary>
+    <div><img alt="Dmytro's Github stats" src="https://github-readme-stats.vercel.app/api?username=dchproject&show_icons=true&count_private=true" /></div>
+</details>

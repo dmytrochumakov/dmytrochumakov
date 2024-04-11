@@ -12,7 +12,6 @@ I focus on creating maintainable architecture and improving developer efficiency
 
 ## Talking with Me
 
-- 🐦  My Twitter: [@_dmytrochumakov](https://twitter.com/_dmytrochumakov)
 - 💬  Pronouns: He/Him
 
-You can learn more about me and my past experience [on my blog.](https://medium.com/@dmytro_chumakov)
+You can learn more about me and my past experience [on my blog.](https://dmytros.blog/)
